@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+ENV/
+
+# Logs and databases
+*.log
+*.sql
+*.db
+
+# Runtime data
+__pystcache/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Backup and temp files
+*~
+*.bak
+*.swp
+*.tmp
+*.cache
+*.egg-info
+*.egg
+
+# Media files
+media/
+
+# Ignore your sensitive information
+secret.ini
+config.ini
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Thumbs.db on Windows
+Thumbs.db
+
+# Ignore system specific files
+ehthumbs.db
+Icon
+
+# Ignore custom project-specific files
+custom_file_to_ignore.txt
+
+# VSCODE
+.vscode
